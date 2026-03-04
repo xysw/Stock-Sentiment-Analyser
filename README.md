@@ -19,16 +19,16 @@ Deployed using Streamlit at: https://stock-sentiment-analyser.streamlit.app/
 ### Run locally:
 1. Clone the project
 ```
-$ git clone https://github.com/xysw/stock-sentiment-analyser.git
-$ cd stock-sentiment-analyser
+git clone https://github.com/xysw/stock-sentiment-analyser.git
+cd stock-sentiment-analyser
 ```
 3. Install dependencies
 ```
-$ pip install requirements.txt
+pip install requirements.txt
 ```
 4. Run the application
 ```
-$ streamlit run app.py
+streamlit run app.py
 ```
 5. (Other: To run the terminal version of the app instead of the web version, run the sentiment_analyser.py file instead)
 
