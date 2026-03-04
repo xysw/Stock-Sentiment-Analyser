@@ -14,7 +14,7 @@ Deployed using Streamlit at: https://stock-sentiment-analyser.streamlit.app/
 * Streamlit 1.36.0
 
 ## Launch
-### Streamlit page: https://stock-sentiment-analyser.streamlit.app/
+Streamlit page: https://stock-sentiment-analyser.streamlit.app/
 
 ### Run locally:
 1. Clone the project
