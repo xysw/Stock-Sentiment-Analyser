@@ -18,13 +18,19 @@ Deployed using Streamlit at: https://stock-sentiment-analyser.streamlit.app/
 
 ### Run locally:
 1. Clone the project
+'''
 $ git clone https://github.com/xysw/stock-sentiment-analyser.git
-cd stock-sentiment-analyser
-2. Install dependencies
-$ pip install streamlit feedparser requests beautifulsoup4 nltk
-3. Run the application
+$ cd stock-sentiment-analyser
+'''
+3. Install dependencies
+'''
+$ pip install requirements.txt
+'''
+4. Run the application
+'''
 $ streamlit run app.py
-4. (Other: To run the terminal version of the app instead of the web version, run the sentiment_analyser.py file instead)
+'''
+5. (Other: To run the terminal version of the app instead of the web version, run the sentiment_analyser.py file instead)
 
 ### Usage
 1. Enter a stock ticker into the input field (e.g. AAPL)
