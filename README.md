@@ -1,6 +1,6 @@
 # Stock-Sentiment-Analyser
 
-A Python-based tool that quantifies the sentiment of financial news articles, to inform trading.
+A Python-based tool that quantifies the sentiment of financial news articles.
 
 Scrapes recent news articles from Google RSS feeds, extracts relevant metadata, and sequentially passes data to the pretrained VADER model, a NLP model by NLTK. Determines the overall sentiment of a user-inputted stock from cumulative polarity scores of individual articles. This project was developed to learn how to apply NLP models to real applications and also learn how to extract data from the web using Feedparser and BeautifulSoup.
 
