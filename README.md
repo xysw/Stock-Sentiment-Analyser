@@ -1,4 +1,4 @@
-# Stock-Sentiment-Analyser
+# News-Sentiment-Analyser
 
 A Python-based tool that quantifies the sentiment of financial news articles.
 
